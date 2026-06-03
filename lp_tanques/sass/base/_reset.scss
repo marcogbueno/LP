@@ -1,0 +1,8 @@
+@use "./_typography" as *;
+
+* { font-family: $font-primary; }
+
+a, a:hover {
+    text-decoration: none;
+    color: inherit;
+}

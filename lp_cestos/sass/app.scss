@@ -1,0 +1,10 @@
+// Base
+@use "base/_reset" as *;
+
+// Components
+@use "components/_header.scss" as *;
+@use "components/_footer.scss" as *;
+@use "components/_buttons" as *;
+
+// Pages
+@use "pages/index.scss" as *;
